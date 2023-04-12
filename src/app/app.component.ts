@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'M1S10-Ex5';
-}
+  page:string="";
+};
